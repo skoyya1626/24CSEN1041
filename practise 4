@@ -1,0 +1,9 @@
+
+number_to_check = -5
+
+if number_to_check < 0:
+    print(f"The number {number_to_check} is negative.")
+elif number_to_check > 0:
+    print(f"The number {number_to_check} is positive.")
+else:
+    print(f"The number {number_to_check} is zero (neither negative nor positive).")
