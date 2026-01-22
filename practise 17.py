@@ -16,3 +16,10 @@ else:
     print(f"Factorial of {number} is {factorial_number}")
 
     print(f"\nUsing recursive method Factorial of {number} is {recursive_factorial(number)}")
+    output:-
+    Enter a non-negative number: 4
+Factorial of 4 is 24
+
+Using recursive method Factorial of 4 is 24
+
+=== Code Execution Successful ===
