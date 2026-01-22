@@ -10,3 +10,6 @@ elif a < 0:
     print(f"The number {a} is negative")
 else:
     print(f"The number {a} is zero")
+output:-
+Enter an integer (positive or negative): -100
+The number -100 is negative
