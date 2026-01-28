@@ -1,0 +1,91 @@
+for i in range(1, 100):
+    if i % 5 == 0:
+        continue  # Skip even numbers, go to next iteration
+    elif i == 50:
+        break     # Exit the loop when i becomes 25
+    else:
+        pass      # Explicitly do nothing (dummy placeholder)
+
+    # This block runs only for odd numbers before 25
+    print(i)
+  output:-
+1
+2
+3
+4
+6
+7
+8
+9
+11
+12
+13
+14
+16
+17
+18
+19
+21
+22
+23
+24
+26
+27
+28
+29
+31
+32
+33
+34
+36
+37
+38
+39
+41
+42
+43
+44
+46
+47
+48
+49
+51
+52
+53
+54
+56
+57
+58
+59
+61
+62
+63
+64
+66
+67
+68
+69
+71
+72
+73
+74
+76
+77
+78
+79
+81
+82
+83
+84
+86
+87
+88
+89
+91
+92
+93
+94
+96
+97
+98
+99
